@@ -1,0 +1,39 @@
+I. Bisection Method [X]
+
+II. Newton's Method [X]
+
+III. Secant Method [X]
+
+IV. Fixed Point Iteration Method [X]
+
+V. Gaussian Elimination :
+    1. Without Pivoting [X]
+    2. Partial Pivoting [ ]
+    3. Scaled Pivoting (Skipped in Class) [ ]
+
+VI. Decomposition :
+    1. LU using Gaussian Elimination [ ]
+    2. Crout's LU [ ]
+    3. Doolittle's LU [ ]
+    4. Check if input matrix is SDD (Using vectorization) [ ]
+    5. Check if input matrix is SPD (Using vectorization) [ ]
+    6. Cholesky Decompostion of SPD Matrices [ ]
+
+VII. Solving Tridiagonal System [ ]
+
+VIII. Iterative Methods :
+    1. Jacobi Method [ ]
+    2. Gauss Siedal Method [ ]
+
+IX. Interpolation :
+    1. Lagrangian Interpolation [ ]
+    2. Newton's Interpolationg Polynomial [ ]
+    3. Forward Difference Interpolation [ ]
+    4. Piecewise linear approximation [ ]
+    5. Cubic Spline (Not a knot, Natural) [ ]
+
+X. Optimization :
+    1. Gradient Descent Algorithm [ ]
+    2. Exact Line Search Algorithm [ ]
+    3. Inexact Line Search (Armijo with Backtracking) [ ]
+    4. Newton's Method [ ]
