@@ -22,8 +22,8 @@ VI. Decomposition :
 VII. Solving Tridiagonal System [ ]
 
 VIII. Iterative Methods :
-    1. Jacobi Method [ ]
-    2. Gauss Siedal Method [ ]
+    1. Jacobi Method [X]
+    2. Gauss Siedal Method [X]
 
 IX. Interpolation :
     1. Lagrangian Interpolation [ ]
