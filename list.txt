@@ -12,9 +12,9 @@ V. Gaussian Elimination :
     3. Scaled Pivoting (Skipped in Class) [ ]
 
 VI. Decomposition :
-    1. LU using Gaussian Elimination [ ]
+    1. LU using Gaussian Elimination [X]
     2. Crout's LU [ ]
-    3. Doolittle's LU [ ]
+    3. Doolittle's LU [X]
     4. Check if input matrix is SDD (Using vectorization) [X]
     5. Check if input matrix is SPD (Using vectorization) [X]
     6. Cholesky Decompostion of SPD Matrices [ ]
