@@ -15,8 +15,8 @@ VI. Decomposition :
     1. LU using Gaussian Elimination [ ]
     2. Crout's LU [ ]
     3. Doolittle's LU [ ]
-    4. Check if input matrix is SDD (Using vectorization) [ ]
-    5. Check if input matrix is SPD (Using vectorization) [ ]
+    4. Check if input matrix is SDD (Using vectorization) [X]
+    5. Check if input matrix is SPD (Using vectorization) [X]
     6. Cholesky Decompostion of SPD Matrices [ ]
 
 VII. Solving Tridiagonal System [ ]
@@ -35,5 +35,5 @@ IX. Interpolation :
 X. Optimization :
     1. Gradient Descent Algorithm [X]
     2. Exact Line Search Algorithm [X]
-    3. Inexact Line Search (Armijo with Backtracking) [ ]
+    3. Inexact Line Search (Armijo with Backtracking) [X]
     4. Newton's Method [ ]

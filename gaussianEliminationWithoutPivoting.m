@@ -2,7 +2,7 @@
 function [x] = gaussianEliminationWithoutPivoting(A)
     [n, m] = size(A) % n = # equations, m = n+1
 
-     % Forward Elimination
+    % Forward Elimination
     for k = 1:n-1
         for i = k+1:n
             factor = A(i,k) / A(k,k);
