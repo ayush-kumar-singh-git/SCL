@@ -33,7 +33,7 @@ IX. Interpolation :
     5. Cubic Spline (Not a knot, Natural) [ ]
 
 X. Optimization :
-    1. Gradient Descent Algorithm [ ]
-    2. Exact Line Search Algorithm [ ]
+    1. Gradient Descent Algorithm [X]
+    2. Exact Line Search Algorithm [X]
     3. Inexact Line Search (Armijo with Backtracking) [ ]
     4. Newton's Method [ ]
