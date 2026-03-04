@@ -13,13 +13,13 @@ V. Gaussian Elimination :
 
 VI. Decomposition :
     1. LU using Gaussian Elimination [X]
-    2. Crout's LU [ ]
+    2. Crout's LU [X]
     3. Doolittle's LU [X]
     4. Check if input matrix is SDD (Using vectorization) [X]
     5. Check if input matrix is SPD (Using vectorization) [X]
-    6. Cholesky Decompostion of SPD Matrices [ ]
+    6. Cholesky Decompostion of SPD Matrices [X]
 
-VII. Solving Tridiagonal System [ ]
+VII. Solving Tridiagonal System [X]
 
 VIII. Iterative Methods :
     1. Jacobi Method [X]
